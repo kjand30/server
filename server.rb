@@ -4,6 +4,7 @@ get'/' do
 	"Hello world"
 end 
 
-get '/sinatra' do 
+get "/sinatra" do 
 	"Hello sinatra"
 end 
+	
